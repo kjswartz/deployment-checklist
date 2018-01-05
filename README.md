@@ -1,4 +1,3 @@
 # deployment-checklist
-## SPAs 
-
 ## Rails App
+[ ] Setup GitHub Repo
