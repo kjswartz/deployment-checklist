@@ -14,3 +14,11 @@
 - Asset Hosting
   - AWS S3 Bucket setup
     - configure IAM 
+## SPAs 
+- Setup GitHub Repo
+  - Manage repo permissions 
+- AWS Hosting
+- Setup S3 Bucket
+  - configure IAM 
+- Route53 configuration
+- Deployment Tool configuration ???
